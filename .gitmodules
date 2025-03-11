@@ -1,0 +1,33 @@
+[submodule "capture_mark_recapture_practical"]
+	path = capture_mark_recapture_practical
+	url = https://github.com/c-noonan-02/capture_mark_recapture_practical
+[submodule "matrix_population_modelling"]
+	path = matrix_population_modelling
+	url = https://github.com/c-noonan-02/matrix_population_modelling
+[submodule "IUCN_red_list"]
+	path = IUCN_red_list
+	url = https://github.com/c-noonan-02/IUCN_red_list
+[submodule "population_modelling"]
+	path = population_modelling
+	url = https://github.com/c-noonan-02/population_modelling
+[submodule "multi_species_interactions"]
+	path = multi_species_interactions
+	url = https://github.com/c-noonan-02/multi_species_interactions
+[submodule "multi_trophic_mechanistic_models"]
+	path = multi_trophic_mechanistic_models
+	url = https://github.com/c-noonan-02/multi_trophic_mechanistic_models
+[submodule "null_and_regression_models"]
+	path = null_and_regression_models
+	url = https://github.com/c-noonan-02/null_and_regression_models
+[submodule "phylogenetic_patterns_species_traits"]
+	path = phylogenetic_patterns_species_traits
+	url = https://github.com/c-noonan-02/phylogenetic_patterns_species_traits
+[submodule "stochastic_disease_modelling"]
+	path = stochastic_disease_modelling
+	url = https://github.com/c-noonan-02/stochastic_disease_modelling
+[submodule "community_patterns"]
+	path = community_patterns
+	url = https://github.com/c-noonan-02/community_patterns
+[submodule "meta_communities"]
+	path = meta_communities
+	url = https://github.com/c-noonan-02/meta_communities
